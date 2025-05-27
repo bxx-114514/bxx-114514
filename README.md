@@ -4,7 +4,7 @@
 
 # SNS
 
-* 哔哩哔哩 bilibili: https://space.bilibili.com/626140137
+* 德波大饭店 bilibili: https://space.bilibili.com/626140137
 * YouTube: https://youtube.com/@buxianxian-ii45i4
 * 小红书 Xiaohongshu/Redbook: https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d
 * 微博 Weibo: https://weibo.com/u/7847016698
