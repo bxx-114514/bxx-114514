@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/bxx-114514/bxx-114514/refs/heads/main/head.jpg)
+
 # 联系和投稿方式 Contact and Relate Details
 
 * Email: tzhong072@gmail.com
