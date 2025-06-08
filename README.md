@@ -7,12 +7,10 @@
 
 ![logo](https://raw.githubusercontent.com/bxx-114514/bxx-114514/refs/heads/main/head.jpg)
 
-# 联系和投稿方式 Contact and Relate Details
-
+# 联系和投稿方式 Contact & Relate Details
 * Email: tzhong072@gmail.com
 
 # SNS
-
 * 德波大饭店 bilibili: https://space.bilibili.com/626140137
 * YouTube: https://youtube.com/@buxianxian-ii45i4
 * 小红书 Xiaohongshu/Redbook: https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d
