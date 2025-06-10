@@ -20,3 +20,7 @@
 * Threads: https://www.threads.com/@114514buxianxian
 * Bluesky: https://bsky.app/profile/bxx-114514.bsky.social
 * Instagram: https://www.instagram.com/114514buxianxian/
+
+# 所用模板 Used Templates
+- [docsify](https://docsify.js.org/)
+- [docsify GitHub](https://github.com/docsifyjs/docsify/)
