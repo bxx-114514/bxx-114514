@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![logo](https://raw.githubusercontent.com/bxx-114514/bxx-114514/refs/heads/main/head.jpg)
-![](https://raw.githubusercontent.com/bxx-114514/bxx-114514/refs/heads/main/head2.jpg)
+![logo](head.jpg)
+![](head2.jpg)
 
 </div>
 
