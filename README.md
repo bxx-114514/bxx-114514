@@ -6,6 +6,8 @@
 - [你所热爱的，就是你的生活](https://bxx-114514.github.io/evil-of-bilibili/)
 - [i 鬼](https://bxx-114514.github.io/igui-blog/)
 
+---
+
 <div align="center">
 
 ![logo](https://raw.githubusercontent.com/bxx-114514/bxx-114514/refs/heads/main/head.jpg)
