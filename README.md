@@ -3,7 +3,7 @@
 - https://bxx-114514.netlify.app/
 
 # 网页传送门 Website Links
-- [i 鸣](https://bxx-114514.github.io/iming-blog/)
+- [~i 鸣~](https://bxx-114514.github.io/iming-blog/)
 - [i 鸣（新）](https://bxx-114514.github.io/new-iming-blog)
 - [仙舟联盟的观察站](https://bxx-114514.github.io/xzlm-hyv/)
 - [《原神》与媒体](https://bxx-114514.github.io/genshinimpact-and-media/)
