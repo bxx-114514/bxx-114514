@@ -1,6 +1,6 @@
 # 留档博客 Archive blog
 - https://bxx-114514.github.io/
-- https://bxx-114514.netlify.app/
+- ~~https://bxx-114514.netlify.app/~~
 
 # 网页传送门 Website Links
 - [~~i 鸣~~](https://bxx-114514.github.io/iming-blog/)
