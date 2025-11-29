@@ -14,6 +14,8 @@
 
 <div align="center">
 
+![](IMG_20251128_054953.jpg)
+![](IMG_20251128_055026.jpg)
 ![logo](head.jpg)
 ![](head2.jpg)
 
