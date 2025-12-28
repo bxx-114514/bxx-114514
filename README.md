@@ -14,16 +14,16 @@
 
 <div align="center">
 
-![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting@main/images/251228/251228.png)
+![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting@main/images/251228/251228.png)  
 ![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting@main/images/251228/251228-2.png)
 
 </div>
 
 <div align="center">
 
-![](IMG_20251128_054953.jpg)
-![](IMG_20251128_055026.jpg)
-![logo](head.jpg)
+![](IMG_20251128_054953.jpg)  
+![](IMG_20251128_055026.jpg)  
+![logo](head.jpg)  
 ![](head2.jpg)
 
 </div>
