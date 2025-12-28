@@ -14,9 +14,9 @@
 
 <div align="center">
 
-![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting@main/images/251228/251228.png)
+![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting/images/251228/251228.png)
 
-![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting@main/images/251228/251228-2.png)
+![](https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting/images/251228/251228-2.png)
 
 </div>
 
