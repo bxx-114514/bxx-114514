@@ -9,6 +9,7 @@
 - [《原神》与媒体](https://bxx-114514.github.io/genshinimpact-and-media/)
 - [你所热爱的，就是你的生活](https://bxx-114514.github.io/evil-of-bilibili/)
 - [i 鬼](https://bxx-114514.github.io/igui-blog/)
+- [3412](https://bxx-114514.github.io/3412-zrpg/)
 
 ---
 
