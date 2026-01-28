@@ -1,8 +1,8 @@
-# 留档博客 Archive blog
+# 留档博客 <br> Archive blog
 - https://bxx-114514.github.io/
 - https://bxx114514.netlify.app/
 
-# 网页传送门 Website Links
+# 网页传送门 <br> Website Links
 
 | 分类 <br> Categories     | 网页链接 <br> Website Links                           | 仓库链接 <br> Repo Links                              |
 | ------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -37,7 +37,7 @@
 
 </div>
 
-# 联系和投稿方式 Contact & Relate Details
+# 联系和投稿方式 <br> Contact & Relate Details
 
 | SMTP    | 邮箱地址 <br> Mail Address |
 | ------- | -------------------------- |
@@ -49,19 +49,19 @@
 <details>
 <summary><strong>SNS</strong></summary>
 
-| SNS                        | 链接 <br> Link                                                    |
-| -------------------------- | ----------------------------------------------------------------- |
-| bilibili                   | https://space.bilibili.com/626140137                              |
-| YouTube                    | https://youtube.com/@bxx-ii45i4                                   |
-| 小红书 Xiaohongshu/Redbook | https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d |
-| 微博 Weibo                 | https://weibo.com/u/7847016698                                    |
-| X (Twitter)                | https://x.com/bxx_114514                                          |
-| Bluesky                    | https://bsky.app/profile/bxx-114514.bsky.social                   |
-| Threads                    | https://www.threads.com/@114514buxianxian                         |
-| Instagram                  | https://www.instagram.com/114514buxianxian                        |
+| SNS                             | 链接 <br> Link                                                    |
+| ------------------------------- | ----------------------------------------------------------------- |
+| bilibili                        | https://space.bilibili.com/626140137                              |
+| YouTube                         | https://youtube.com/@bxx-ii45i4                                   |
+| 小红书 <br> Xiaohongshu/Redbook | https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d |
+| 微博 <br> Weibo                 | https://weibo.com/u/7847016698                                    |
+| X (Twitter)                     | https://x.com/bxx_114514                                          |
+| Bluesky                         | https://bsky.app/profile/bxx-114514.bsky.social                   |
+| Threads                         | https://www.threads.com/@114514buxianxian                         |
+| Instagram                       | https://www.instagram.com/114514buxianxian                        |
 
 </details>
 
-# 所用模板 Used Templates
+# 所用模板 <br> Used Templates
 - [docsify](https://docsify.js.org/)
 - [docsify GitHub](https://github.com/docsifyjs/docsify/)
