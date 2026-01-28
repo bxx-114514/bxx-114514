@@ -4,7 +4,7 @@
 
 # 网页传送门 Website Links
 
-| 分类 Categories          | 网页链接 Website Links                                | 仓库链接 Repo Links                                   |
+| 分类 <br> Categories     | 网页链接 <br> Website Links                           | 仓库链接 <br> Repo Links                              |
 | ------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
 | ~~i 鸣~~                 | <del>https://bxx-114514.github.io/iming-blog/</del>   | <del>https://github.com/bxx-114514/iming-blog</del>   |
 | i 鸣（新）               | https://bxx-114514.github.io/new-iming-blog/          | https://github.com/bxx-114514/new-iming-blog          |
@@ -39,17 +39,17 @@
 
 # 联系和投稿方式 Contact & Relate Details
 
-| SMTP    | 邮箱地址 Mail Address  |
-| ------- | ---------------------- |
-| Gmail   | tzhong072@gmail.com    |
-| Outlook | bxx-114514@outlook.com |
+| SMTP    | 邮箱地址 <br> Mail Address |
+| ------- | -------------------------- |
+| Gmail   | tzhong072@gmail.com        |
+| Outlook | bxx-114514@outlook.com     |
 
 # SNS
 
 <details>
 <summary><strong>SNS</strong></summary>
 
-| SNS                        | 链接 Link                                                         |
+| SNS                        | 链接 <br> Link                                                    |
 | -------------------------- | ----------------------------------------------------------------- |
 | bilibili                   | https://space.bilibili.com/626140137                              |
 | YouTube                    | https://youtube.com/@bxx-ii45i4                                   |
