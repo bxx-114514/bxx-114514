@@ -2,10 +2,10 @@ name: Optimize Images
 
 on:
   push:
-    # branches:
-      # - main
-    paths:
-      - '*.{jpg,jpeg,png}'
+    branches:
+      - main
+    # paths:
+      # - '*.{jpg,jpeg,png}'
   workflow_dispatch:
 
 jobs:
