@@ -20,7 +20,7 @@ jobs:
 
       - name: Convert to WebP
         run: |
-          find img -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | while read file; do
+          find -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | while read file; do
             cwebp -q 90 "$file" -o "${file%.*}.webp"
             rm "$file"
           done
