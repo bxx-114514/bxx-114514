@@ -19,23 +19,23 @@
 
 <div align="center">
 
-![](260322.jpg)
+![](260322.webp)
 
-![](251228.png)
+![](251228.webp)
 
-![](251228-2.png)
+![](251228-2.webp)
 
 </div>
 
 <div align="center">
 
-![](IMG_20251128_054953.jpg)
+![](IMG_20251128_054953.webp)
 
-![](IMG_20251128_055026.jpg)
+![](IMG_20251128_055026.webp)
 
-![logo](head.jpg)
+![logo](head.webp)
 
-![](head2.jpg)
+![](head2.webp)
 
 </div>
 
