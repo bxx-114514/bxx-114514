@@ -45,6 +45,7 @@
 | ------- | -------------------------- |
 | Gmail   | tzhong072@gmail.com        |
 | Outlook | bxx-114514@outlook.com     |
+| iCloud  | bxx114514@icloud.com       |
 
 # SNS
 
