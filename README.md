@@ -1,6 +1,6 @@
 # 留档博客 <br> Archive blog
-- https://bxx-114514.github.io/
-- https://bxx114514.netlify.app/
+
+- https://legacy.bxx114514.cc/
 
 # 网页传送门 <br> Website Links
 
@@ -66,5 +66,6 @@
 </details>
 
 # 所用模板 <br> Used Templates
+
 - [docsify](https://docsify.js.org/)
 - [docsify GitHub](https://github.com/docsifyjs/docsify/)
