@@ -2,11 +2,18 @@
 
 - https://legacy.bxx114514.cc/
 
-## [Telegram 频道](https://t.me/bxx_114514_trash) <br> [Telegram Channel](https://t.me/bxx_114514_trash)
+# [Telegram 频道](https://t.me/bxx_114514_trash) <br> [Telegram Channel](https://t.me/bxx_114514_trash)
+
+[单击这里加入 Click here to join](https://t.me/bxx_114514_trash)
+
+<details>
+<summary>点击展开截图 Click here to expand screenshots</summary>
 
 ![](https://imghost.bxx114514.cc/2026/04/26/020301-qr_tmp.webp)  
 ![](https://imghost.bxx114514.cc/2026/04/26/020301-Screenshot_2026-04-25-02-19-25-949_org.telegram.messenger.webp)  
 ![](https://imghost.bxx114514.cc/2026/04/26/020301-Screenshot_2026-04-25-01-23-16-952_org.telegram.messenger.webp)
+
+</details>
 
 # 网页传送门 <br> Website Links
 
