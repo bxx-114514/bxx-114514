@@ -2,6 +2,12 @@
 
 - https://legacy.bxx114514.cc/
 
+## [Telegram 频道](https://t.me/bxx_114514_trash) <br> [Telegram Channel](https://t.me/bxx_114514_trash)
+
+![](https://imghost.bxx114514.cc/2026/04/26/020301-qr_tmp.webp)  
+![](https://imghost.bxx114514.cc/2026/04/26/020301-Screenshot_2026-04-25-02-19-25-949_org.telegram.messenger.webp)  
+![](https://imghost.bxx114514.cc/2026/04/26/020301-Screenshot_2026-04-25-01-23-16-952_org.telegram.messenger.webp)
+
 # 网页传送门 <br> Website Links
 
 | 分类 <br> Categories     | 网页链接 <br> Website Links                           | 仓库链接 <br> Repo Links                              |
